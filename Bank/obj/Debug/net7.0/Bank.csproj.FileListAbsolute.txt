@@ -1,0 +1,15 @@
+/Users/gian/Projects/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/gian/Projects/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/gian/Projects/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/gian/Projects/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/gian/Projects/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.AssemblyReference.cache
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/gian/Projects/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll
